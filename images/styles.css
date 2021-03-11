@@ -1,0 +1,60 @@
+
+body {
+background-color: #D3D0CB;
+}
+
+
+h1 {
+color : red;
+font-family: 'Open Sans';
+font-weight: 'bold 700';
+}
+
+h3, p {
+font-family: 'Open Sans';
+font-weight: 'Regular 400';
+}
+
+h2{
+font-family: 'Open Sans';
+font-weight: 'Regular 400';
+}
+
+
+ul {
+font-family: 'Open Sans';
+list-style-type: none;
+text-align: center;
+}
+
+
+img {
+  border-radius: 50%;
+  width: 80px;
+  height: 88px;
+}
+
+
+.white-box {
+  width: 700px;
+  padding: 30Px;
+  margin: 20px auto;
+  border-radius: 10px;
+  text-align: center;
+  background-color: white;
+  box-shadow: 2px 2px 3px ;
+}
+
+.list-box {
+  width: 600px;
+  padding: 30px;
+  margin: 20px 0px;
+  border-radius: 10px;
+  background-color: white;
+}
+
+
+
+
+
+
